@@ -1,0 +1,3 @@
+## Basic functions
+
++ Newton-Sqrt

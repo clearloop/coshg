@@ -1,5 +1,0 @@
-# Shuffle
-
-## FisherYates
-
-## Inside-Out
